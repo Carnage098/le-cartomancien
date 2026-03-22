@@ -16,7 +16,7 @@ Soldat du Lustre Noir
 Soldat du Lustre Noir – Émissaire du Commencement
 Dragon Empereur du Chaos – Émissaire de la Fin
 Jinzo
-Obélisque le Tourmenteur
+Obélisk le Tourmenteur
 Slifer le Dragon Céleste
 Le Dragon Ailé de Râ
 Le Dragon Ailé de Râ – Mode Sphère
@@ -329,8 +329,8 @@ Grenouille Dupliquée
 Démolisseurs Spright
 Explosion Gamma Spright
 Cri Tearlaments
-Battement de Cœur Tearlaments
-Réprobation Tearlaments
+Battement de Cœur Tiarmentations
+Réprobation Tiarmentations
 Naissance Kashtira
 Préparatifs Kashtira
 Planète Pressurisée Wraitsoth
@@ -342,7 +342,65 @@ Monster Reborn
 Désigné par la Tombe
 Imperméance Infinie
 Floraison de Cendres & Joyeux Printemps
-Veilleur d’Effet
+Illusionniste d’Effet
 Gouttelette Interdite
-Talent des Trois Tactiques
-Poussée des Trois Tactiques
+Talent des Triples Tactiques
+Poussée des Triples Tactiques
+Magicien du Chaos
+Toon Dragon Blanc aux Yeux Bleus
+Toon Monde
+Exodia Necross
+Magicien du Temps
+Soldat de Pierre Géant
+Exodia Necross
+Dragon Armé des Ténèbres
+Dragon du Jugement
+Soldat du Lustre Noir – Émissaire du Crépuscule
+Sorcier du Chaos
+Sorcier du Chaos – Maître des Magiciens
+Bystial Magnamhut
+Bystial Druiswurm
+Bystial Saronir
+Bystial Lubellion
+Kashtira Théosis
+Kashtira Birth
+Visas Starfrost
+Appel de l’Être Hanté
+Trappe Sans Fond
+Jugement Solennel
+Avertissement Divin
+Frappe Solennelle
+Dragon à Cinq Têtes
+Dragon Armé des Ténèbres
+Dragon du Jugement
+Dragon Métal Ténébreux aux Yeux Rouges
+Sorcier du Chaos
+Droll & Lock Bird
+Fantôme Ogre & Lapin des Neiges (tu l’as ✔ mais pas toute la famille utile)
+Fantôme Reaper & Cerises d’Hiver
+Contact “C”
+Retaliating “C”
+Exosister Mikailis
+Fontaine Runick
+Hugin le Runick
+Lovely Labrynth of the Silver Castle
+Arianna la Servante Labrynth
+Châtiment Interdit
+Livre de la Vie
+Onde de Chaleur
+Piège sans Fond
+Avertissement Divin
+Jugement Solennel
+Hommage Torrentiel
+Numéro 41 : Bagooska le Tapir Terriblement Fatigué
+Tornade Dragon
+Chevalier Exciton Étoile
+Toadally Awesome (Crapaud Formidable)
+Abyss Dweller (Habitant des Abysses)
+Castel, Mousquetaire du Ciel
+Fontaine Runick
+Hugin le Runick
+Lady Labrynth du Château d’Argent
+Arianna la Servante Labrynth
+Abomination Enchaînée
+Vanquish Soul – Dr. Mad Love
