@@ -376,10 +376,9 @@ Dragon du Jugement
 Dragon Métal Ténébreux aux Yeux Rouges
 Sorcier du Chaos
 Droll & Lock Bird
-Fantôme Ogre & Lapin des Neiges (tu l’as ✔ mais pas toute la famille utile)
-Fantôme Reaper & Cerises d’Hiver
-Contact “C”
-Retaliating “C”
+Fantôme Ogre & Lapin des Neiges 
+Contact C
+Retaliating C
 Exosister Mikailis
 Fontaine Runick
 Hugin le Runick
